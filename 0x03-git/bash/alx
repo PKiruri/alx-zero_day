@@ -1,2 +1,6 @@
 #!/bin/bash
-ALX School is so cool!
+<<<<<<< HEAD
+The content has changed!
+=======
+ALX School
+>>>>>>> update_script
