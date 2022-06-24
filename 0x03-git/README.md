@@ -1,3 +1,1 @@
-this is the readme file for the0x03-git directory >README.md
-
-echo this is the readme file for the0x03-git directory
+This is the readme file for the 0x03-git directory
